@@ -12,6 +12,7 @@
 * CSS (media queries)
 * bootstrap
 * Javascript
+* Fetchhing API from the Server
 
 ## Description
 The weather forecast, one of the  weather web based application it show tempreture every particular city.  and weather forecast also and if anywhere thunderstrom
